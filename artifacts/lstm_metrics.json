@@ -1,0 +1,7 @@
+{
+  "accuracy": 0.9983,
+  "f1": 0.9983,
+  "test_samples": 600,
+  "vocab_size": 76,
+  "max_len": 24
+}

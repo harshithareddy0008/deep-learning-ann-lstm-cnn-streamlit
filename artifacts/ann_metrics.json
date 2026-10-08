@@ -1,0 +1,6 @@
+{
+  "accuracy": 0.7433,
+  "f1": 0.7354,
+  "test_samples": 600,
+  "positive_rate": 0.4597
+}
